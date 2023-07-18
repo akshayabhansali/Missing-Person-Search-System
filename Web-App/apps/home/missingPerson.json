@@ -1,0 +1,173 @@
+{
+    "1": {
+        "name": "Deepika Padukone",
+        "description": "Eyes-color: Brown, Skin-color: Wheatish, Birth-Mark: None that is commonly visible, Face-Shape: Oval",
+        "Age": "35",
+        "Sex": "Female",
+        "Missing_From": "2023-04-19",
+        "Height": "170",
+        "imgPath": "/static/lostPeopleImage/1.jpg",
+        "MatchesFound": "No",
+        "address_record": {
+            "street_address": "Powai Lake",
+            "zip": "400044",
+            "city": "Mumbai",
+            "country": "India"
+        },
+        "Category": "Mentally Challeneged",
+        "Mobile_number": "9511750205",
+        "email": "amkakad52@gmail.com"
+    },
+    "2": {
+        "name": "Ranbir Kapoor",
+        "description": "Eyes-color: Brown, Skin-color: Fair, Birth-Mark: None that is commonly visible, Face-Shape: Oval",
+        "Age": "40",
+        "Sex": "Male",
+        "Missing_From": "2023-04-19",
+        "Height": "165",
+        "imgPath": "/static/lostPeopleImage/2.jpg",
+        "MatchesFound": "Yes",
+        "address_record": {
+            "street_address": "Powai Lake",
+            "zip": "400044",
+            "city": "Mumbai",
+            "country": "India"
+        },
+        "Category": "Old Person with Alzheimer",
+        "Mobile_number": "9511750205",
+        "email": "amkakad52@gmail.com"
+    },
+    "3": {
+        "name": "Alia Bhatt",
+        "description": "Eyes-color: Black, Skin-color: Fair, Birth-Mark: None that is commonly visible, Face-Shape: Oval",
+        "Age": "32",
+        "Sex": "Female",
+        "Missing_From": "2023-04-19",
+        "Height": "160",
+        "imgPath": "/static/lostPeopleImage/3.jpg",
+        "MatchesFound": "No",
+        "address_record": {
+            "street_address": "Powai Lake",
+            "zip": "400044",
+            "city": "Mumbai",
+            "country": "India"
+        },
+        "Category": "Missing Child",
+        "Mobile_number": "9511750205",
+        "email": "amkakad52@gmail.com"
+    },
+    "4": {
+        "name": "Siddharth Malhotra",
+        "description": "Eyes-color: Brown, Skin-color: Fair, Birth-Mark: None that is commonly visible, Face-Shape: Square",
+        "Age": "45",
+        "Sex": "Male",
+        "Missing_From": "2023-04-19",
+        "Height": "175",
+        "imgPath": "/static/lostPeopleImage/4.jpg",
+        "MatchesFound": "Yes",
+        "address_record": {
+            "street_address": "Powai Lake",
+            "zip": "400044",
+            "city": "Mumbai",
+            "country": "India"
+        },
+        "Category": "Mentally Challeneged",
+        "Mobile_number": "9511750205",
+        "email": "amkakad52@gmail.com"
+    },
+    "5": {
+        "name": "Salman Khan",
+        "description": "Eyes-color: Brown, Skin-color: Wheatish, Birth-Mark: Scar on his cheek and a vein on his forehead, Face-Shape: Oval",
+        "Age": "55",
+        "Sex": "Male",
+        "Missing_From": "2023-04-19",
+        "Height": "170",
+        "imgPath": "/static/lostPeopleImage/5.jpg",
+        "MatchesFound": "Yes",
+        "address_record": {
+            "street_address": "Powai Lake",
+            "zip": "400044",
+            "city": "Mumbai",
+            "country": "India"
+        },
+        "Category": "Old Person with Alzheimer",
+        "Mobile_number": "9511750205",
+        "email": "amkakad52@gmail.com"
+    },
+    "6": {
+        "name": "Katrina Kaif",
+        "description": "Eyes-color: Brown, Skin-color: Fair, Birth-Mark: None that is commonly visible, Face-Shape: Oval",
+        "Age": "40",
+        "Sex": "Female",
+        "Missing_From": "2023-04-19",
+        "Height": "170",
+        "imgPath": "/static/lostPeopleImage/6.jpg",
+        "MatchesFound": "No",
+        "address_record": {
+            "street_address": "Powai Lake",
+            "zip": "400044",
+            "city": "Mumbai",
+            "country": "India"
+        },
+        "Category": "Criminal",
+        "Mobile_number": "9511750205",
+        "email": "amkakad52@gmail.com"
+    },
+    "7": {
+        "name": "Akshaya Bhansali",
+        "description": "brown hair, skin color-fair, eye color- brown\r\n\t\t\t\t\t\t\t\t\t\t",
+        "Age": "20",
+        "Sex": "Female",
+        "Missing_From": "2023-04-20",
+        "Height": "156",
+        "imgPath": "/static/lostPeopleImage/7.jpg",
+        "MatchesFound": "No",
+        "address_record": {
+            "street_address": "12,ashoka road",
+            "zip": "422011",
+            "city": "nashik",
+            "country": "India"
+        },
+        "Category": "Teen_Runway",
+        "Mobile_number": "9511750205",
+        "email": "amkakad52@gmail.com"
+    },
+    "8": {
+        "name": "Pallavi Gavali",
+        "description": "brown hair, skin color-fair, eye color- brown\r\n\t\t\t\t\t\t\t\t\t\t",
+        "Age": "21",
+        "Sex": "Female",
+        "Missing_From": "2023-06-05",
+        "Height": "150",
+        "imgPath": "/static/lostPeopleImage/8.jpg",
+        "MatchesFound": "No",
+        "address_record": {
+            "street_address": "Near Rahu Hotel",
+            "zip": "422011",
+            "city": "nashik",
+            "country": "India"
+        },
+        "Category": "Missing Child",
+        "Mobile_number": "9511750205",
+        "email": "amkakad52@gmail.com"
+    },
+    "9": {
+        "name": "Akshay Kumar",
+        "description": "eyes color - brown, hair color - black\r\n\t\t\t\t\t\t\t\t\t\t",
+        "Age": "25",
+        "Sex": "Male",
+        "Missing_From": "2023-06-05",
+        "Height": "160",
+        "imgPath": "/static/lostPeopleImage/9.jpg",
+        "MatchesFound": "No",
+        "address_record": {
+            "street_address": "xyz",
+            "zip": "656",
+            "city": "nashik",
+            "country": "xyz"
+        },
+        "Category": "Teen_Runway",
+        "Mobile_number": "9511750205",
+        "email": "amkakad52@gmail.con"
+    }
+}

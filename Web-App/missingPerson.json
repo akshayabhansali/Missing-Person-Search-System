@@ -1,0 +1,116 @@
+{
+    "1": {
+        "name": "Deepika Padukone",
+        "description": "Actress",
+        "Age": "35",
+        "Sex": "Female",
+        "Missing_From": "2023-04-19",
+        "Height": "170",
+        "imgPath": "/static/lostPeopleImage/1.jpg",
+        "MatchesFound": "No",
+        "address_record": {
+            "street_address": "Powai Lake",
+            "zip": "400044",
+            "city": "Mumbai",
+            "country": "India"
+        },
+        "Category": "Mentally Challeneged",
+        "Mobile_number": "9511750205",
+        "email": "amkakad52@gmail.com"
+    },
+    "2": {
+        "name": "Ranbir Kapoor",
+        "description": "Actor",
+        "Age": "40",
+        "Sex": "Male",
+        "Missing_From": "2023-04-19",
+        "Height": "165",
+        "imgPath": "/static/lostPeopleImage/2.jpg",
+        "MatchesFound": "No",
+        "address_record": {
+            "street_address": "Powai Lake",
+            "zip": "400044",
+            "city": "Mumbai",
+            "country": "India"
+        },
+        "Category": "Old Person with Alzheimer",
+        "Mobile_number": "9511750205",
+        "email": "amkakad52@gmail.com"
+    },
+    "3": {
+        "name": "Alia Bhatt",
+        "description": "Actress",
+        "Age": "32",
+        "Sex": "Female",
+        "Missing_From": "2023-04-19",
+        "Height": "160",
+        "imgPath": "/static/lostPeopleImage/3.jpg",
+        "MatchesFound": "No",
+        "address_record": {
+            "street_address": "Powai Lake",
+            "zip": "400044",
+            "city": "Mumbai",
+            "country": "India"
+        },
+        "Category": "Missing Child",
+        "Mobile_number": "9511750205",
+        "email": "amkakad52@gmail.com"
+    },
+    "4": {
+        "name": "Siddharth Malhotra",
+        "description": "Actress",
+        "Age": "45",
+        "Sex": "Male",
+        "Missing_From": "2023-04-19",
+        "Height": "175",
+        "imgPath": "/static/lostPeopleImage/4.jpg",
+        "MatchesFound": "No",
+        "address_record": {
+            "street_address": "Powai Lake",
+            "zip": "400044",
+            "city": "Mumbai",
+            "country": "India"
+        },
+        "Category": "Mentally Challeneged",
+        "Mobile_number": "9511750205",
+        "email": "amkakad52@gmail.com"
+    },
+    "5": {
+        "name": "Salman Khan",
+        "description": "Actress",
+        "Age": "55",
+        "Sex": "Male",
+        "Missing_From": "2023-04-19",
+        "Height": "170",
+        "imgPath": "/static/lostPeopleImage/5.jpg",
+        "MatchesFound": "No",
+        "address_record": {
+            "street_address": "Powai Lake",
+            "zip": "400044",
+            "city": "Mumbai",
+            "country": "India"
+        },
+        "Category": "Old Person with Alzheimer",
+        "Mobile_number": "9511750205",
+        "email": "amkakad52@gmail.com"
+    },
+    "6": {
+        "name": "Katrina Kaif",
+        "description": "Actress",
+        "Age": "40",
+        "Sex": "Female",
+        "Missing_From": "2023-04-19",
+        "Height": "170",
+        "imgPath": "/static/lostPeopleImage/6.jpg",
+        "MatchesFound": "No",
+        "address_record": {
+            "street_address": "Powai Lake",
+            "zip": "400044",
+            "city": "Mumbai",
+            "country": "India"
+        },
+        "Category": "Criminal",
+        "Mobile_number": "9511750205",
+        "email": "amkakad52@gmail.com"
+    }
+}
